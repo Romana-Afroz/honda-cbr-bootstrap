@@ -1,0 +1,58 @@
+
+/* for navbar */
+.nav-font {
+	font-family: "Poppins", sans-serif;
+	font-size: 16px;
+	color: aliceblue;
+}
+/* for header */
+.header-bg-color {
+	background-color: #264653;
+}
+/* for button */
+.custom-btn {
+	height: 44px;
+	width: auto;
+	background-color: #e76f51;
+	border-radius: 8px;
+}
+.gray-img {
+	filter: grayscale(100%);
+}
+/* for card */
+.card-title-text {
+	font-weight: 600;
+	font-family: "Poppins", sans-serif;
+	font-size: 28px;
+	color: #18191f;
+}
+
+.p-text {
+	font-family: "Poppins", sans-serif;
+	font-size: 16px;
+	color: #6c6c6c;
+}
+/* for happy client section */
+.happy-text {
+	font-family: "Poppins", sans-serif;
+	/* font-size: 48px; */
+}
+.happy-client-card {
+	height: 478px;
+	width: auto;
+}
+/* for footer */
+.footer-color {
+	background-color: black;
+}
+.footer-text-color {
+	color: white;
+	font-family: "Manrope", sans-serif;
+	font-size: 16px;
+}
+/* background image */
+.bg-image {
+	background-image: url(../images/grid.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+}
